@@ -27,4 +27,9 @@ Below are the available commands for system interaction and administration:
 - `method` - Manage methods. [Admin Only]
 - `listban` - View all banned users. [Admin Only]
 
+### Note: if you want to use script instead of api to perform attack, use file main (more attack options).py
+And please configure as follows
+- `Line 82:` configure command to run script
+- `Line 318,319:` attack option with script or api
+
 ## Credit: Telegram @daviinci_b
