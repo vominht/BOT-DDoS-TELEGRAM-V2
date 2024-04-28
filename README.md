@@ -25,3 +25,5 @@ Below are the available commands for system interaction and administration:
 - `add` - Add a new user to the system. [Admin Only]
 - `method` - Manage methods. [Admin Only]
 - `listban` - View all banned users. [Admin Only]
+
+## Credit: Telegram @daviinci_b
