@@ -1,4 +1,8 @@
 # Hi guys, this DDoS bot source is the second version of [https://github.com/vominht/BOT-DDoS-TELEGRAM]
+## Install
+```
+git clone https://github.com/vominht/BOT-DDoS-TELEGRAM-V2
+```
 ## To setup this bot, following these commands
 ```
 pip install python-telegram-bot --upgrade
