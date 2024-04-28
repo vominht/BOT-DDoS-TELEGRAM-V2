@@ -1,5 +1,5 @@
 # Hi guys, this DDoS bot source is the second version of <br>[https://github.com/vominht/BOT-DDoS-TELEGRAM]
-### Any questions pm Telegram @daviinci_b
+### Any questions pm Telegram <br> https://t.me/daviinci_b
 ## Install
 ```
 git clone https://github.com/vominht/BOT-DDoS-TELEGRAM-V2
