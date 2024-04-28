@@ -377,5 +377,5 @@ app.add_handler(CommandHandler("method", method_command))
 app.add_handler(CommandHandler("listban", list_banned))
 app.add_handler(CommandHandler("plan", plan))
 app.add_handler(CommandHandler("start", start))
-
+print("Running...")
 app.run_polling()
