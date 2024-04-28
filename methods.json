@@ -1,0 +1,12 @@
+[
+    {
+        "name": "HTTP-FLOOD",
+        "description": "HTTP Flood Attack",
+        "vip": false
+    },
+    {
+        "name": "TCP-SYN",
+        "description": "TCP SYN Flood",
+        "vip": true
+    }
+]

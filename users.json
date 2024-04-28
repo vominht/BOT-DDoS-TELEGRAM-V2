@@ -1,0 +1,26 @@
+{
+    "789012": {
+        "time": 30,
+        "concurrent": 2,
+        "vip": false,
+        "expire": "2024-05-30T23:59:59",
+        "banned": true,
+        "bypass_blacklist": false
+    },
+    "5145402317": {
+        "time": 300,
+        "concurrent": 1,
+        "vip": true,
+        "expire": "2024-06-23T16:47:03.594413",
+        "banned": false,
+        "bypass_blacklist": true
+    },
+    "5555": {
+        "time": 300,
+        "concurrent": 5,
+        "vip": true,
+        "expire": "2024-06-26T02:29:43.503190",
+        "banned": true,
+        "bypass_blacklist": false
+    }
+}
